@@ -17,18 +17,18 @@ Welcome to the **Real-Time Fraud Detection & Alert System** repository! This pro
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/Real-Time-Fraud-Detection-Alert-System.git
-```
+   ```
 2. **Install Dependencies**
-Follow the instructions in the **requirements.tx**t file.
+- Follow the instructions in the **requirements.tx**t file.
 3. **Configure Environment**
-Update your configuration files with your database and API keys.
+- Update your configuration files with your database and API keys.
 4. **Run the Application**
-Start your Airflow DAGs and API servers as per the documentation.
+- Start your Airflow DAGs and API servers as per the documentation.
 
 ## API Documentation 📑
-Detailed API docs are available in the **/docs** folder.
+- Detailed API docs are available in the **/docs** folder.
 
 # License 📜
 
-This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
+- This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
 
