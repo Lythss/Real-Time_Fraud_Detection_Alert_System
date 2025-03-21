@@ -1,4 +1,4 @@
-i# Real-Time Fraud Detection & Alert System 🚨
+# Real-Time Fraud Detection & Alert System 🚨
 
 Welcome to the **Real-Time Fraud Detection & Alert System** repository! This project is designed to detect suspicious financial activities in near real-time while minimizing false alerts. It provides a robust, scalable solution by integrating multiple data sources, leveraging Hive for data storage, and orchestrating the workflow with Apache Airflow.
 
